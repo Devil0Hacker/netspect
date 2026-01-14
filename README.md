@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="file_000000005e5472069e86b3d94b096041 (1)" src="https://github.com/user-attachments/assets/066418a9-c057-433b-81a8-22d158a79bf2" />
+
 ## ⭐ Support the Project
 
 If you find **NetSpect** useful, you can support the project by:
