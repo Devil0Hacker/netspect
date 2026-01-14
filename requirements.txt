@@ -1,0 +1,4 @@
+requests>=2.25.0
+colorama>=0.4.4
+rich>=13.0.0
+holehe>=1.61
