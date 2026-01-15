@@ -77,7 +77,7 @@ This tool is intended only for educational purposes and ethical OSINT research.
 ```bash
 pkg update -y
 pkg install git -y
-git clone https://github.com/YOUR_USERNAME/netspect
+https://github.com/Devil0Hacker/netspect.git
 cd netspect
 bash installer.sh
 netspect
